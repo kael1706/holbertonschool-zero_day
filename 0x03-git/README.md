@@ -1,2 +1,2 @@
 Hello. about Git
-update v1.0.1
+update v1.0.2
